@@ -1,0 +1,16 @@
+{
+  "name": "axios-ts-app",
+  "version": "1.0.0",
+  "description": "Making third-party API calls in TS NodeJS Express using Axios",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Axios",
+    "TS"
+  ],
+  "author": "Zaki Mohammed",
+  "license": "ISC"
+}
